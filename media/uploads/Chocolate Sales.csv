@@ -1,0 +1,828 @@
+Sales Person,Country,Product,Date,Amount,Boxes Shipped
+Jehu Rudeforth,4,mint chip choco,2022-01-04,"$5,320",180
+Van Tuxwell,2,85% dark bars,2022-08-01,"$7,896",94
+Gigi Bohling,2,peanut butter cubes,2022-07-07,"$4,501",91
+Jan Morforth,0,peanut butter cubes,2022-04-27,"$12,726",342
+Jehu Rudeforth,4,peanut butter cubes,2022-02-24,"$13,685",184
+Van Tuxwell,2,smooth sliky salty,2022-06-06,"$5,376",38
+Gunar Cockshoot,0,after nines,2022-03-24,"$3,080",73
+Jehu Rudeforth,3,50% dark bites,2022-04-20,"$3,990",59
+Brien Boise,0,99% dark & pure,2022-07-04,"$2,835",102
+Rafaelita Blaksland,4,smooth sliky salty,2022-01-13,"$4,704",62
+Barr Faughny,5,orange choco,2022-03-10,"$3,703",11
+Mallorie Waber,1,eclairs,2022-01-13,"$1,442",286
+Karlen McCaffrey,3,drinking coco,2022-07-28,$168,156
+Marney O'Breen,3,peanut butter cubes,2022-08-03,"$8,379",173
+Beverie Moffet,0,organic choco syrup,2022-01-26,"$6,790",356
+Van Tuxwell,1,organic choco syrup,2022-02-14,"$4,067",42
+Roddy Speechley,5,smooth sliky salty,2022-04-05,"$3,017",140
+Beverie Moffet,1,milk bars,2022-02-16,"$8,799",250
+Curtice Advani,4,85% dark bars,2022-06-08,"$1,085",172
+Brien Boise,0,eclairs,2022-06-27,"$6,888",88
+Gunar Cockshoot,5,spicy special slims,2022-02-17,"$1,267",157
+Marney O'Breen,5,after nines,2022-05-30,"$4,753",163
+Husein Augar,4,drinking coco,2022-03-14,"$3,003",113
+Kaine Padly,0,eclairs,2022-02-28,"$7,672",115
+Roddy Speechley,1,spicy special slims,2022-02-09,"$1,652",186
+Husein Augar,5,eclairs,2022-07-07,"$4,025",112
+Dennison Crosswaite,3,white choc,2022-07-05,"$9,492",151
+Dennison Crosswaite,3,manuka honey choco,2022-06-15,"$5,061",301
+Van Tuxwell,3,85% dark bars,2022-05-24,"$1,722",121
+Rafaelita Blaksland,4,99% dark & pure,2022-06-29,"$12,446",150
+Wilone O'Kielt,0,manuka honey choco,2022-05-11,"$4,284",94
+Karlen McCaffrey,4,almond choco,2022-06-30,"$6,839",133
+Andria Kimpton,1,after nines,2022-05-11,"$2,163",70
+Roddy Speechley,5,manuka honey choco,2022-07-22,"$9,583",315
+Andria Kimpton,4,50% dark bites,2022-08-24,"$2,653",314
+Kelci Walkden,3,after nines,2022-07-07,$147,72
+Camilla Castle,0,85% dark bars,2022-05-19,"$3,654",14
+Karlen McCaffrey,2,manuka honey choco,2022-07-04,"$2,443",581
+Kelci Walkden,5,after nines,2022-06-02,$938,16
+Karlen McCaffrey,5,raspberry choco,2022-04-15,"$14,749",354
+Mallorie Waber,1,choco coated almonds,2022-07-11,"$4,781",241
+Andria Kimpton,2,spicy special slims,2022-02-23,"$6,307",142
+Madelene Upcott,1,almond choco,2022-08-22,"$7,602",102
+Van Tuxwell,5,50% dark bites,2022-01-13,"$9,737",160
+Curtice Advani,0,milk bars,2022-02-14,"$6,979",18
+Roddy Speechley,2,eclairs,2022-06-10,"$4,382",303
+Curtice Advani,2,fruit & nut bars,2022-07-07,"$5,243",176
+Curtice Advani,1,almond choco,2022-03-24,"$4,865",70
+Brien Boise,0,fruit & nut bars,2022-06-06,"$8,575",23
+Dotty Strutley,0,drinking coco,2022-07-19,$91,135
+Beverie Moffet,5,raspberry choco,2022-04-19,"$14,798",83
+Marney O'Breen,2,85% dark bars,2022-07-19,"$2,205",179
+Jehu Rudeforth,1,drinking coco,2022-07-15,$441,24
+Ches Bonnell,3,spicy special slims,2022-02-14,"$3,556",18
+Brien Boise,1,99% dark & pure,2022-05-18,"$16,793",416
+Barr Faughny,0,fruit & nut bars,2022-06-30,"$15,421",55
+Andria Kimpton,0,50% dark bites,2022-06-02,"$4,438",227
+Andria Kimpton,0,drinking coco,2022-06-28,"$1,603",48
+Marney O'Breen,0,organic choco syrup,2022-05-16,$273,174
+Kelci Walkden,1,baker's choco chips,2022-05-26,"$3,073",302
+Karlen McCaffrey,2,almond choco,2022-07-06,"$6,090",149
+Oby Sorrel,2,99% dark & pure,2022-05-27,"$10,255",11
+Wilone O'Kielt,0,caramel stuffed bars,2022-04-14,"$2,030",11
+Van Tuxwell,0,organic choco syrup,2022-08-10,"$19,453",14
+Camilla Castle,2,50% dark bites,2022-07-04,"$9,275",411
+Oby Sorrel,2,organic choco syrup,2022-07-08,"$6,181",56
+Jan Morforth,5,peanut butter cubes,2022-07-22,"$9,037",102
+Gigi Bohling,5,choco coated almonds,2022-03-02,"$12,313",103
+Gigi Bohling,4,almond choco,2022-01-10,"$5,642",9
+Jehu Rudeforth,3,white choc,2022-03-11,"$2,800",241
+Andria Kimpton,3,peanut butter cubes,2022-06-20,$959,265
+Van Tuxwell,4,organic choco syrup,2022-08-26,"$2,002",214
+Roddy Speechley,1,milk bars,2022-07-13,$609,32
+Camilla Castle,5,spicy special slims,2022-02-11,"$1,274",244
+Marney O'Breen,5,orange choco,2022-01-27,"$7,595",181
+Van Tuxwell,4,99% dark & pure,2022-01-31,"$4,725",137
+Camilla Castle,5,white choc,2022-08-18,"$9,681",24
+Andria Kimpton,5,raspberry choco,2022-06-30,"$14,504",21
+Dotty Strutley,0,fruit & nut bars,2022-08-23,$280,311
+Brien Boise,3,mint chip choco,2022-08-01,$63,181
+Roddy Speechley,3,after nines,2022-05-25,"$8,001",10
+Roddy Speechley,1,organic choco syrup,2022-01-10,"$4,032",82
+Dennison Crosswaite,0,70% dark bites,2022-02-07,"$5,859",108
+Karlen McCaffrey,5,orange choco,2022-05-12,"$11,095",401
+Madelene Upcott,0,spicy special slims,2022-03-07,"$7,182",408
+Dennison Crosswaite,0,85% dark bars,2022-04-05,"$6,881",420
+Andria Kimpton,1,caramel stuffed bars,2022-01-03,"$7,154",348
+Dennison Crosswaite,4,eclairs,2022-03-24,"$6,188",270
+Madelene Upcott,2,raspberry choco,2022-07-07,"$4,221",9
+Van Tuxwell,5,after nines,2022-07-26,$630,264
+Wilone O'Kielt,0,organic choco syrup,2022-07-07,"$1,743",111
+Karlen McCaffrey,1,50% dark bites,2022-07-15,"$2,919",65
+Roddy Speechley,3,orange choco,2022-04-01,$49,97
+Beverie Moffet,0,eclairs,2022-06-20,"$1,827",6
+Kelci Walkden,4,fruit & nut bars,2022-06-29,"$13,006",482
+Marney O'Breen,5,50% dark bites,2022-06-15,"$1,064",106
+Husein Augar,5,after nines,2022-04-08,"$11,571",180
+Dennison Crosswaite,0,raspberry choco,2022-03-14,"$5,740",31
+Andria Kimpton,5,fruit & nut bars,2022-07-15,"$1,456",359
+Kelci Walkden,2,eclairs,2022-04-19,"$5,334",80
+Marney O'Breen,5,99% dark & pure,2022-03-28,"$4,151",296
+Brien Boise,1,spicy special slims,2022-03-04,"$8,106",101
+Karlen McCaffrey,3,70% dark bites,2022-08-02,$126,40
+Husein Augar,4,spicy special slims,2022-08-25,"$4,697",42
+Marney O'Breen,5,almond choco,2022-02-25,"$7,798",167
+Kelci Walkden,2,orange choco,2022-06-07,"$9,408",138
+Jan Morforth,2,spicy special slims,2022-04-12,"$1,939",520
+Ches Bonnell,2,spicy special slims,2022-07-06,"$10,906",94
+Kelci Walkden,4,smooth sliky salty,2022-01-19,"$5,929",175
+Madelene Upcott,0,fruit & nut bars,2022-01-05,"$5,579",92
+Madelene Upcott,1,70% dark bites,2022-01-24,"$10,927",141
+Wilone O'Kielt,0,drinking coco,2022-04-06,$623,283
+Gunar Cockshoot,0,fruit & nut bars,2022-06-15,"$6,013",21
+Gigi Bohling,1,baker's choco chips,2022-01-28,"$1,505",47
+Kelci Walkden,2,caramel stuffed bars,2022-03-16,$476,125
+Rafaelita Blaksland,0,drinking coco,2022-02-21,"$11,550",396
+Kelci Walkden,5,manuka honey choco,2022-02-16,"$17,318",87
+Jehu Rudeforth,1,spicy special slims,2022-01-13,"$1,848",27
+Kelci Walkden,0,eclairs,2022-03-23,"$7,273",547
+Curtice Advani,1,spicy special slims,2022-06-16,$854,118
+Oby Sorrel,2,raspberry choco,2022-04-14,"$6,832",46
+Kelci Walkden,4,eclairs,2022-01-25,"$4,606",57
+Jan Morforth,2,almond choco,2022-03-11,"$4,466",22
+Dotty Strutley,4,almond choco,2022-07-28,"$16,114",96
+Marney O'Breen,3,after nines,2022-03-09,"$1,561",44
+Husein Augar,0,orange choco,2022-06-28,"$8,897",188
+Marney O'Breen,0,milk bars,2022-07-28,"$2,464",387
+Kelci Walkden,1,99% dark & pure,2022-08-15,"$4,830",50
+Kaine Padly,0,manuka honey choco,2022-01-12,"$2,765",264
+Beverie Moffet,3,white choc,2022-03-24,"$7,126",7
+Van Tuxwell,4,milk bars,2022-07-25,"$4,263",90
+Oby Sorrel,1,99% dark & pure,2022-08-01,"$3,605",403
+Van Tuxwell,2,organic choco syrup,2022-05-16,"$19,929",174
+Roddy Speechley,2,smooth sliky salty,2022-08-10,"$5,103",140
+Jan Morforth,2,eclairs,2022-01-05,"$2,541",27
+Ches Bonnell,4,smooth sliky salty,2022-07-11,"$5,663",110
+Wilone O'Kielt,5,after nines,2022-04-25,$392,30
+Gigi Bohling,3,fruit & nut bars,2022-04-04,"$10,976",121
+Barr Faughny,5,raspberry choco,2022-04-12,"$9,282",101
+Gigi Bohling,3,manuka honey choco,2022-06-28,"$8,267",272
+Ches Bonnell,0,eclairs,2022-07-05,"$4,116",128
+Rafaelita Blaksland,3,choco coated almonds,2022-06-07,"$2,093",45
+Brien Boise,3,smooth sliky salty,2022-01-18,"$1,015",27
+Brien Boise,0,baker's choco chips,2022-01-04,"$12,516",212
+Dennison Crosswaite,0,99% dark & pure,2022-01-31,"$2,758",18
+Kelci Walkden,2,almond choco,2022-03-14,"$3,297",149
+Camilla Castle,0,70% dark bites,2022-04-29,"$6,048",477
+Oby Sorrel,2,smooth sliky salty,2022-02-07,"$10,101",108
+Kaine Padly,4,organic choco syrup,2022-03-31,"$2,282",178
+Marney O'Breen,2,caramel stuffed bars,2022-03-16,"$4,361",81
+Van Tuxwell,2,baker's choco chips,2022-06-20,"$3,052",447
+Gigi Bohling,4,after nines,2022-03-29,"$8,029",175
+Jehu Rudeforth,1,smooth sliky salty,2022-07-11,"$5,460",138
+Andria Kimpton,5,85% dark bars,2022-04-05,"$8,911",82
+Jehu Rudeforth,1,milk bars,2022-02-21,"$7,203",12
+Rafaelita Blaksland,3,caramel stuffed bars,2022-05-20,"$13,083",14
+Mallorie Waber,0,milk bars,2022-07-29,"$2,779",104
+Barr Faughny,5,fruit & nut bars,2022-01-28,"$9,058",46
+Marney O'Breen,4,caramel stuffed bars,2022-07-19,"$3,549",112
+Mallorie Waber,3,manuka honey choco,2022-04-13,"$9,436",11
+Roddy Speechley,2,peanut butter cubes,2022-02-11,"$10,283",21
+Roddy Speechley,3,milk bars,2022-03-02,"$5,446",116
+Ches Bonnell,0,white choc,2022-03-02,"$1,043",202
+Van Tuxwell,5,99% dark & pure,2022-07-28,"$12,586",6
+Kelci Walkden,2,after nines,2022-01-07,"$1,687",520
+Brien Boise,4,white choc,2022-04-12,"$5,299",167
+Van Tuxwell,1,almond choco,2022-06-27,"$3,213",72
+Jehu Rudeforth,0,50% dark bites,2022-01-14,"$5,194",418
+Jehu Rudeforth,0,orange choco,2022-03-23,"$13,706",26
+Marney O'Breen,2,peanut butter cubes,2022-01-10,"$6,489",146
+Oby Sorrel,4,choco coated almonds,2022-03-17,"$9,324",41
+Gigi Bohling,5,spicy special slims,2022-01-21,"$10,829",54
+Barr Faughny,0,white choc,2022-07-04,"$8,113",370
+Kaine Padly,1,peanut butter cubes,2022-07-04,"$3,269",176
+Dennison Crosswaite,0,50% dark bites,2022-04-01,"$7,287",12
+Gigi Bohling,2,raspberry choco,2022-02-22,"$2,583",159
+Camilla Castle,4,white choc,2022-01-03,"$9,982",187
+Karlen McCaffrey,2,drinking coco,2022-05-31,"$4,795",233
+Dotty Strutley,4,99% dark & pure,2022-01-03,"$9,310",282
+Husein Augar,3,caramel stuffed bars,2022-01-27,$497,475
+Barr Faughny,4,50% dark bites,2022-01-28,$581,65
+Curtice Advani,0,organic choco syrup,2022-06-28,"$3,472",311
+Husein Augar,4,choco coated almonds,2022-03-02,"$4,333",43
+Wilone O'Kielt,0,after nines,2022-05-27,"$3,325",26
+Dennison Crosswaite,5,almond choco,2022-06-30,"$11,718",84
+Barr Faughny,1,peanut butter cubes,2022-06-07,"$2,100",78
+Kaine Padly,5,70% dark bites,2022-05-12,"$4,018",100
+Barr Faughny,3,raspberry choco,2022-07-29,"$6,468",66
+Dennison Crosswaite,4,white choc,2022-08-03,"$7,238",265
+Barr Faughny,2,baker's choco chips,2022-08-18,"$6,454",141
+Van Tuxwell,3,smooth sliky salty,2022-06-14,"$3,115",42
+Beverie Moffet,4,white choc,2022-06-30,"$6,475",76
+Camilla Castle,3,mint chip choco,2022-06-13,"$1,162",190
+Ches Bonnell,4,orange choco,2022-04-27,"$14,238",54
+Mallorie Waber,1,85% dark bars,2022-04-20,"$1,428",424
+Rafaelita Blaksland,2,spicy special slims,2022-01-04,"$8,064",134
+Ches Bonnell,0,mint chip choco,2022-02-21,"$9,660",92
+Karlen McCaffrey,0,white choc,2022-01-05,"$7,357",48
+Beverie Moffet,2,drinking coco,2022-07-15,"$6,055",46
+Brien Boise,0,choco coated almonds,2022-05-25,"$5,124",62
+Karlen McCaffrey,1,eclairs,2022-04-20,"$3,479",358
+Gigi Bohling,5,99% dark & pure,2022-06-02,$784,249
+Marney O'Breen,4,smooth sliky salty,2022-05-13,"$18,991",88
+Beverie Moffet,3,baker's choco chips,2022-08-03,"$1,372",144
+Beverie Moffet,0,milk bars,2022-05-25,$735,390
+Van Tuxwell,4,raspberry choco,2022-03-16,"$6,538",79
+Jan Morforth,0,orange choco,2022-07-04,"$3,199",122
+Madelene Upcott,5,after nines,2022-03-15,"$4,571",430
+Barr Faughny,4,raspberry choco,2022-08-22,"$5,481",69
+Ches Bonnell,0,70% dark bites,2022-01-12,"$3,136",125
+Marney O'Breen,4,baker's choco chips,2022-06-10,$252,154
+Rafaelita Blaksland,2,almond choco,2022-07-27,"$3,395",99
+Husein Augar,4,caramel stuffed bars,2022-04-15,"$14,938",433
+Roddy Speechley,2,orange choco,2022-06-27,"$4,053",19
+Jehu Rudeforth,4,70% dark bites,2022-04-14,"$5,565",258
+Husein Augar,0,manuka honey choco,2022-03-15,"$7,161",92
+Madelene Upcott,5,eclairs,2022-03-18,"$8,883",200
+Brien Boise,2,eclairs,2022-04-29,"$1,351",61
+Mallorie Waber,3,white choc,2022-02-25,"$3,171",246
+Van Tuxwell,0,milk bars,2022-06-20,"$7,910",87
+Dotty Strutley,0,50% dark bites,2022-05-12,"$3,108",252
+Mallorie Waber,3,organic choco syrup,2022-07-01,"$5,075",256
+Husein Augar,5,85% dark bars,2022-08-08,$378,54
+Madelene Upcott,0,50% dark bites,2022-07-25,"$7,350",6
+Wilone O'Kielt,4,drinking coco,2022-05-18,"$3,388",55
+Camilla Castle,2,peanut butter cubes,2022-07-15,"$11,837",277
+Mallorie Waber,5,manuka honey choco,2022-07-04,"$5,425",96
+Gunar Cockshoot,0,almond choco,2022-01-25,"$3,752",424
+Kaine Padly,3,spicy special slims,2022-07-01,"$7,728",37
+Gigi Bohling,5,50% dark bites,2022-04-13,"$2,296",59
+Beverie Moffet,4,smooth sliky salty,2022-05-04,"$4,403",76
+Beverie Moffet,0,baker's choco chips,2022-08-04,"$3,192",109
+Beverie Moffet,2,70% dark bites,2022-06-01,$448,146
+Jehu Rudeforth,4,choco coated almonds,2022-04-22,"$4,270",185
+Kaine Padly,5,50% dark bites,2022-08-03,$70,27
+Gunar Cockshoot,4,manuka honey choco,2022-06-27,"$6,762",46
+Marney O'Breen,0,smooth sliky salty,2022-01-03,"$3,745",170
+Marney O'Breen,2,after nines,2022-07-11,"$2,639",179
+Ches Bonnell,3,milk bars,2022-08-17,"$4,389",126
+Rafaelita Blaksland,5,fruit & nut bars,2022-01-18,"$2,604",65
+Ches Bonnell,2,organic choco syrup,2022-03-08,"$16,569",99
+Mallorie Waber,0,orange choco,2022-03-07,"$14,658",275
+Madelene Upcott,4,caramel stuffed bars,2022-04-15,$161,145
+Gigi Bohling,0,drinking coco,2022-07-27,"$2,807",139
+Barr Faughny,5,50% dark bites,2022-04-14,"$13,034",117
+Marney O'Breen,3,smooth sliky salty,2022-06-14,"$8,484",57
+Beverie Moffet,0,white choc,2022-06-27,"$2,240",166
+Beverie Moffet,1,baker's choco chips,2022-01-11,"$13,447",95
+Kelci Walkden,5,white choc,2022-03-07,"$9,422",22
+Kaine Padly,1,50% dark bites,2022-03-04,"$8,687",100
+Karlen McCaffrey,1,organic choco syrup,2022-07-15,"$2,415",312
+Kaine Padly,4,peanut butter cubes,2022-05-11,"$6,272",86
+Karlen McCaffrey,2,orange choco,2022-06-27,"$3,122",149
+Ches Bonnell,2,smooth sliky salty,2022-08-03,"$8,043",18
+Wilone O'Kielt,3,mint chip choco,2022-08-19,"$11,662",242
+Dennison Crosswaite,4,peanut butter cubes,2022-02-07,"$8,925",158
+Karlen McCaffrey,0,almond choco,2022-07-08,"$7,294",128
+Dennison Crosswaite,2,milk bars,2022-04-21,"$1,526",96
+Ches Bonnell,4,mint chip choco,2022-04-08,"$2,688",209
+Husein Augar,0,50% dark bites,2022-08-19,"$14,889",52
+Jan Morforth,2,fruit & nut bars,2022-05-04,"$2,912",55
+Mallorie Waber,5,85% dark bars,2022-05-11,"$2,632",108
+Mallorie Waber,5,eclairs,2022-03-22,"$6,328",51
+Dennison Crosswaite,1,spicy special slims,2022-08-10,"$2,527",216
+Dennison Crosswaite,5,fruit & nut bars,2022-05-04,"$1,414",318
+Kelci Walkden,5,99% dark & pure,2022-08-18,"$7,714",238
+Dotty Strutley,1,raspberry choco,2022-08-03,"$4,347",238
+Marney O'Breen,3,milk bars,2022-01-14,"$7,490",315
+Madelene Upcott,0,choco coated almonds,2022-04-08,"$2,058",72
+Kelci Walkden,4,orange choco,2022-08-01,"$3,640",3
+Dennison Crosswaite,1,eclairs,2022-03-15,$455,45
+Karlen McCaffrey,2,mint chip choco,2022-07-15,"$10,990",184
+Barr Faughny,3,almond choco,2022-01-13,"$5,558",127
+Ches Bonnell,1,eclairs,2022-01-10,"$1,876",172
+Gigi Bohling,0,white choc,2022-05-11,"$5,523",87
+Beverie Moffet,3,85% dark bars,2022-08-30,"$11,200",22
+Kaine Padly,5,caramel stuffed bars,2022-07-21,"$5,593",122
+Mallorie Waber,0,almond choco,2022-08-01,"$7,882",125
+Brien Boise,1,85% dark bars,2022-02-17,"$10,241",259
+Dotty Strutley,5,orange choco,2022-02-23,"$1,379",107
+Rafaelita Blaksland,0,50% dark bites,2022-03-22,"$3,010",40
+Curtice Advani,4,white choc,2022-02-01,"$1,540",73
+Kelci Walkden,0,after nines,2022-03-02,"$6,916",288
+Gigi Bohling,4,fruit & nut bars,2022-04-06,"$1,232",86
+Gunar Cockshoot,0,raspberry choco,2022-03-17,$602,72
+Barr Faughny,1,50% dark bites,2022-07-19,"$10,185",303
+Brien Boise,2,almond choco,2022-01-13,"$2,170",218
+Oby Sorrel,3,smooth sliky salty,2022-07-07,"$8,673",60
+Jan Morforth,2,85% dark bars,2022-05-25,"$4,760",418
+Andria Kimpton,3,50% dark bites,2022-03-02,"$3,374",202
+Van Tuxwell,1,white choc,2022-03-22,$420,3
+Rafaelita Blaksland,5,baker's choco chips,2022-06-09,"$2,863",58
+Van Tuxwell,0,caramel stuffed bars,2022-05-17,"$5,936",59
+Ches Bonnell,3,peanut butter cubes,2022-03-04,$889,273
+Kelci Walkden,1,milk bars,2022-07-07,"$16,016",28
+Dennison Crosswaite,1,choco coated almonds,2022-01-13,"$10,479",118
+Madelene Upcott,0,85% dark bars,2022-06-16,"$1,575",329
+Gigi Bohling,4,50% dark bites,2022-07-18,"$8,197",69
+Gigi Bohling,4,70% dark bites,2022-06-21,$840,81
+Jehu Rudeforth,0,peanut butter cubes,2022-06-24,"$5,691",38
+Curtice Advani,1,fruit & nut bars,2022-04-04,"$4,193",195
+Kaine Padly,4,smooth sliky salty,2022-06-08,"$9,016",554
+Kelci Walkden,5,organic choco syrup,2022-07-21,"$9,870",152
+Roddy Speechley,2,after nines,2022-06-22,"$2,576",112
+Camilla Castle,0,caramel stuffed bars,2022-05-02,"$3,178",16
+Curtice Advani,0,99% dark & pure,2022-01-07,"$4,676",84
+Mallorie Waber,4,50% dark bites,2022-02-21,"$5,502",99
+Ches Bonnell,1,baker's choco chips,2022-03-21,"$7,462",371
+Van Tuxwell,4,drinking coco,2022-04-04,"$5,803",136
+Gunar Cockshoot,1,fruit & nut bars,2022-03-24,"$13,888",203
+Gunar Cockshoot,3,spicy special slims,2022-06-28,"$6,867",183
+Gunar Cockshoot,0,drinking coco,2022-01-14,"$2,317",195
+Karlen McCaffrey,3,fruit & nut bars,2022-02-07,"$1,218",135
+Dennison Crosswaite,3,drinking coco,2022-01-11,"$4,109",197
+Jehu Rudeforth,2,99% dark & pure,2022-02-25,"$1,953",242
+Roddy Speechley,0,mint chip choco,2022-05-05,"$6,797",252
+Madelene Upcott,3,raspberry choco,2022-05-18,"$9,226",415
+Dotty Strutley,3,choco coated almonds,2022-01-04,"$5,733",348
+Roddy Speechley,3,50% dark bites,2022-05-09,"$4,312",211
+Rafaelita Blaksland,2,smooth sliky salty,2022-05-06,"$1,638",81
+Husein Augar,4,white choc,2022-01-13,"$10,815",145
+Van Tuxwell,5,caramel stuffed bars,2022-02-14,$987,21
+Camilla Castle,0,99% dark & pure,2022-01-18,"$4,669",101
+Kaine Padly,2,milk bars,2022-05-02,"$2,905",91
+Mallorie Waber,5,almond choco,2022-01-28,"$6,986",368
+Kaine Padly,1,99% dark & pure,2022-06-24,"$1,288",409
+Oby Sorrel,4,after nines,2022-07-18,"$2,345",104
+Gunar Cockshoot,4,eclairs,2022-04-13,"$3,619",164
+Dotty Strutley,5,caramel stuffed bars,2022-04-15,"$16,982",76
+Jan Morforth,2,peanut butter cubes,2022-01-04,"$8,092",178
+Husein Augar,0,eclairs,2022-07-04,"$6,993",31
+Camilla Castle,0,manuka honey choco,2022-03-17,$637,169
+Oby Sorrel,0,almond choco,2022-02-15,"$6,034",223
+Jan Morforth,5,orange choco,2022-06-29,$980,146
+Gigi Bohling,5,fruit & nut bars,2022-05-24,"$2,821",112
+Mallorie Waber,4,milk bars,2022-01-10,"$3,563",284
+Curtice Advani,5,raspberry choco,2022-03-15,"$2,996",139
+Marney O'Breen,1,milk bars,2022-02-08,"$2,436",309
+Roddy Speechley,5,fruit & nut bars,2022-06-14,"$5,509",24
+Gunar Cockshoot,2,50% dark bites,2022-08-09,"$12,992",83
+Wilone O'Kielt,3,manuka honey choco,2022-07-11,"$3,724",234
+Kaine Padly,4,manuka honey choco,2022-01-14,"$7,133",118
+Van Tuxwell,1,manuka honey choco,2022-02-24,"$8,617",46
+Wilone O'Kielt,3,almond choco,2022-03-15,"$9,198",144
+Oby Sorrel,3,baker's choco chips,2022-04-25,"$11,823",47
+Dennison Crosswaite,0,organic choco syrup,2022-05-10,"$5,775",41
+Marney O'Breen,0,spicy special slims,2022-06-23,"$13,125",275
+Beverie Moffet,1,smooth sliky salty,2022-02-28,"$14,287",370
+Brien Boise,5,organic choco syrup,2022-05-25,"$16,233",138
+Roddy Speechley,3,baker's choco chips,2022-02-22,"$5,313",215
+Van Tuxwell,4,85% dark bars,2022-07-11,"$3,577",134
+Marney O'Breen,1,spicy special slims,2022-01-03,"$3,528",336
+Rafaelita Blaksland,3,70% dark bites,2022-08-24,$679,280
+Beverie Moffet,5,50% dark bites,2022-07-28,"$2,450",352
+Brien Boise,5,mint chip choco,2022-05-25,"$10,577",150
+Karlen McCaffrey,3,eclairs,2022-05-06,"$2,597",177
+Barr Faughny,2,drinking coco,2022-01-28,"$2,219",142
+Marney O'Breen,4,orange choco,2022-06-06,"$11,319",12
+Brien Boise,3,baker's choco chips,2022-07-12,"$5,978",24
+Ches Bonnell,1,spicy special slims,2022-08-05,"$5,327",183
+Brien Boise,5,orange choco,2022-01-28,"$6,020",147
+Kaine Padly,2,spicy special slims,2022-08-31,"$5,614",137
+Mallorie Waber,5,50% dark bites,2022-04-19,"$1,736",13
+Mallorie Waber,4,mint chip choco,2022-06-29,"$6,384",2
+Madelene Upcott,4,smooth sliky salty,2022-03-04,"$14,539",84
+Gigi Bohling,2,eclairs,2022-06-21,"$3,493",68
+Rafaelita Blaksland,0,organic choco syrup,2022-01-26,$994,105
+Andria Kimpton,4,drinking coco,2022-05-23,"$1,554",65
+Kelci Walkden,2,milk bars,2022-04-15,$966,107
+Andria Kimpton,3,organic choco syrup,2022-03-04,"$4,935",39
+Barr Faughny,3,after nines,2022-04-19,"$10,024",84
+Beverie Moffet,4,almond choco,2022-05-16,"$2,506",100
+Dennison Crosswaite,5,raspberry choco,2022-01-18,"$6,524",257
+Roddy Speechley,1,orange choco,2022-02-09,"$8,148",85
+Mallorie Waber,2,drinking coco,2022-03-07,"$3,948",142
+Ches Bonnell,5,white choc,2022-02-11,"$5,271",341
+Dotty Strutley,2,white choc,2022-08-15,"$12,327",330
+Van Tuxwell,2,spicy special slims,2022-04-11,"$6,167",4
+Jan Morforth,3,mint chip choco,2022-06-30,"$18,340",285
+Dotty Strutley,3,white choc,2022-06-15,"$7,014",60
+Rafaelita Blaksland,1,caramel stuffed bars,2022-08-01,"$7,119",101
+Kaine Padly,5,milk bars,2022-06-15,"$15,491",58
+Brien Boise,2,after nines,2022-06-16,"$5,747",45
+Oby Sorrel,3,raspberry choco,2022-05-13,"$4,550",281
+Dennison Crosswaite,5,drinking coco,2022-05-10,"$2,191",138
+Ches Bonnell,3,organic choco syrup,2022-07-15,"$7,623",85
+Gigi Bohling,4,baker's choco chips,2022-05-16,"$9,023",409
+Jan Morforth,0,50% dark bites,2022-06-14,"$3,402",182
+Beverie Moffet,0,smooth sliky salty,2022-01-25,"$10,507",467
+Ches Bonnell,5,organic choco syrup,2022-07-28,"$7,721",14
+Brien Boise,1,mint chip choco,2022-01-28,"$5,033",178
+Kaine Padly,4,orange choco,2022-06-29,"$1,960",191
+Karlen McCaffrey,0,70% dark bites,2022-06-24,$238,317
+Gunar Cockshoot,1,mint chip choco,2022-07-01,"$7,756",410
+Curtice Advani,1,smooth sliky salty,2022-08-01,"$2,660",12
+Camilla Castle,3,spicy special slims,2022-01-25,"$11,564",24
+Gigi Bohling,4,milk bars,2022-05-17,"$1,365",232
+Andria Kimpton,0,85% dark bars,2022-08-23,"$4,186",233
+Camilla Castle,0,smooth sliky salty,2022-03-03,"$7,406",118
+Karlen McCaffrey,5,drinking coco,2022-06-29,$112,223
+Andria Kimpton,1,organic choco syrup,2022-01-04,"$8,204",204
+Jehu Rudeforth,0,drinking coco,2022-01-14,"$2,611",65
+Karlen McCaffrey,5,mint chip choco,2022-02-15,"$15,652",53
+Curtice Advani,3,spicy special slims,2022-01-10,"$4,074",469
+Madelene Upcott,5,white choc,2022-05-04,"$12,250",213
+Andria Kimpton,5,spicy special slims,2022-05-23,"$2,366",5
+Madelene Upcott,4,organic choco syrup,2022-07-21,"$6,965",163
+Dotty Strutley,5,mint chip choco,2022-02-21,"$5,292",248
+Mallorie Waber,2,50% dark bites,2022-05-31,$588,139
+Van Tuxwell,3,mint chip choco,2022-06-27,"$4,046",103
+Wilone O'Kielt,5,orange choco,2022-02-28,"$7,042",37
+Barr Faughny,3,eclairs,2022-03-28,"$6,713",31
+Barr Faughny,3,mint chip choco,2022-02-21,"$6,440",145
+Dennison Crosswaite,1,85% dark bars,2022-08-01,"$10,885",90
+Beverie Moffet,3,smooth sliky salty,2022-05-19,"$2,387",59
+Andria Kimpton,0,peanut butter cubes,2022-04-20,"$6,678",148
+Dennison Crosswaite,2,85% dark bars,2022-06-30,"$4,515",22
+Gunar Cockshoot,5,fruit & nut bars,2022-03-09,"$5,852",93
+Oby Sorrel,1,raspberry choco,2022-06-16,"$1,750",208
+Gigi Bohling,4,drinking coco,2022-06-30,"$5,782",42
+Kelci Walkden,2,mint chip choco,2022-07-28,"$2,870",120
+Karlen McCaffrey,1,peanut butter cubes,2022-08-12,"$3,094",159
+Barr Faughny,5,85% dark bars,2022-08-25,"$12,761",47
+Husein Augar,1,eclairs,2022-01-17,"$3,696",233
+Jan Morforth,0,70% dark bites,2022-03-04,"$5,222",384
+Marney O'Breen,3,fruit & nut bars,2022-08-25,"$8,939",4
+Ches Bonnell,4,peanut butter cubes,2022-04-15,"$2,156",260
+Kaine Padly,5,organic choco syrup,2022-03-11,"$2,380",22
+Camilla Castle,5,raspberry choco,2022-05-20,"$3,339",18
+Brien Boise,3,manuka honey choco,2022-06-14,"$14,980",42
+Jehu Rudeforth,3,after nines,2022-04-14,"$1,512",73
+Jehu Rudeforth,5,smooth sliky salty,2022-07-07,"$6,657",154
+Madelene Upcott,2,mint chip choco,2022-08-24,"$3,836",71
+Jehu Rudeforth,2,eclairs,2022-02-24,"$8,771",127
+Karlen McCaffrey,1,raspberry choco,2022-05-09,$651,224
+Kaine Padly,0,70% dark bites,2022-02-08,"$6,706",223
+Roddy Speechley,4,70% dark bites,2022-03-24,"$1,421",284
+Rafaelita Blaksland,5,drinking coco,2022-06-20,"$8,526",73
+Mallorie Waber,1,manuka honey choco,2022-03-07,"$1,435",112
+Kaine Padly,0,fruit & nut bars,2022-06-20,"$7,434",85
+Oby Sorrel,3,organic choco syrup,2022-02-17,"$15,316",270
+Madelene Upcott,0,mint chip choco,2022-05-02,"$2,751",153
+Rafaelita Blaksland,0,baker's choco chips,2022-08-22,"$2,786",51
+Karlen McCaffrey,0,after nines,2022-08-11,"$2,303",67
+Gunar Cockshoot,0,50% dark bites,2022-03-02,"$12,271",116
+Marney O'Breen,0,choco coated almonds,2022-07-27,"$11,298",41
+Kelci Walkden,3,drinking coco,2022-03-10,"$15,855",111
+Beverie Moffet,5,85% dark bars,2022-08-23,"$12,404",334
+Dennison Crosswaite,4,milk bars,2022-03-07,"$10,808",407
+Wilone O'Kielt,4,organic choco syrup,2022-07-12,"$4,858",52
+Madelene Upcott,5,orange choco,2022-05-16,"$7,742",138
+Marney O'Breen,4,manuka honey choco,2022-06-10,"$10,983",179
+Brien Boise,5,99% dark & pure,2022-07-25,"$6,769",353
+Dennison Crosswaite,5,milk bars,2022-05-12,$777,60
+Gunar Cockshoot,5,drinking coco,2022-05-09,"$3,843",5
+Brien Boise,1,manuka honey choco,2022-08-09,"$6,930",182
+Andria Kimpton,5,caramel stuffed bars,2022-05-02,"$8,393",46
+Dotty Strutley,5,99% dark & pure,2022-08-09,"$3,822",320
+Camilla Castle,0,raspberry choco,2022-08-23,"$6,342",178
+Gunar Cockshoot,2,spicy special slims,2022-05-13,"$6,510",170
+Karlen McCaffrey,5,manuka honey choco,2022-02-01,"$10,171",67
+Camilla Castle,5,50% dark bites,2022-06-23,"$5,908",301
+Madelene Upcott,4,choco coated almonds,2022-05-24,"$10,164",134
+Camilla Castle,1,70% dark bites,2022-07-27,"$9,716",151
+Ches Bonnell,2,peanut butter cubes,2022-01-27,"$22,050",208
+Gigi Bohling,1,almond choco,2022-02-01,"$9,989",49
+Rafaelita Blaksland,2,after nines,2022-03-02,"$4,739",204
+Kelci Walkden,0,99% dark & pure,2022-06-30,"$3,185",34
+Dotty Strutley,0,spicy special slims,2022-01-17,"$8,225",91
+Brien Boise,5,milk bars,2022-07-07,"$14,301",130
+Mallorie Waber,3,mint chip choco,2022-01-31,"$1,316",107
+Beverie Moffet,4,99% dark & pure,2022-08-10,"$3,486",121
+Beverie Moffet,5,peanut butter cubes,2022-08-18,"$13,930",339
+Marney O'Breen,5,baker's choco chips,2022-01-26,"$8,470",9
+Kelci Walkden,5,spicy special slims,2022-04-29,$77,69
+Mallorie Waber,1,white choc,2022-03-03,"$3,381",72
+Kaine Padly,0,almond choco,2022-02-22,"$4,102",392
+Dennison Crosswaite,2,smooth sliky salty,2022-07-07,"$2,975",9
+Camilla Castle,3,caramel stuffed bars,2022-06-17,"$4,137",347
+Jan Morforth,1,caramel stuffed bars,2022-08-02,"$9,541",114
+Madelene Upcott,3,peanut butter cubes,2022-01-28,"$5,152",333
+Kelci Walkden,0,orange choco,2022-04-29,"$11,116",432
+Marney O'Breen,0,manuka honey choco,2022-04-05,"$13,076",236
+Kaine Padly,1,manuka honey choco,2022-01-18,"$10,213",135
+Jehu Rudeforth,4,baker's choco chips,2022-05-16,"$2,485",97
+Kelci Walkden,0,white choc,2022-08-24,"$8,715",168
+Gunar Cockshoot,4,99% dark & pure,2022-03-07,$7,84
+Jan Morforth,1,fruit & nut bars,2022-07-25,"$8,904",199
+Rafaelita Blaksland,0,manuka honey choco,2022-08-03,"$4,396",131
+Jehu Rudeforth,4,milk bars,2022-05-03,"$12,068",227
+Husein Augar,1,after nines,2022-01-19,"$9,772",301
+Roddy Speechley,5,50% dark bites,2022-02-11,"$10,458",316
+Van Tuxwell,2,almond choco,2022-06-14,"$6,426",390
+Madelene Upcott,1,85% dark bars,2022-02-17,"$7,504",101
+Mallorie Waber,0,spicy special slims,2022-06-29,"$5,439",287
+Ches Bonnell,1,choco coated almonds,2022-08-24,"$15,547",269
+Gigi Bohling,1,spicy special slims,2022-07-04,"$11,956",277
+Roddy Speechley,3,almond choco,2022-03-28,"$2,723",67
+Curtice Advani,2,smooth sliky salty,2022-04-19,"$19,327",135
+Andria Kimpton,3,mint chip choco,2022-02-15,"$8,848",211
+Andria Kimpton,4,milk bars,2022-02-11,"$14,336",293
+Camilla Castle,5,manuka honey choco,2022-03-21,"$16,401",179
+Gunar Cockshoot,3,almond choco,2022-01-05,"$5,173",129
+Jehu Rudeforth,5,99% dark & pure,2022-01-04,"$2,534",219
+Dotty Strutley,2,spicy special slims,2022-08-12,$910,204
+Gunar Cockshoot,5,organic choco syrup,2022-08-10,"$2,331",321
+Jehu Rudeforth,2,baker's choco chips,2022-06-06,"$2,086",74
+Karlen McCaffrey,3,baker's choco chips,2022-04-05,"$5,012",189
+Andria Kimpton,2,50% dark bites,2022-01-31,"$13,482",15
+Madelene Upcott,5,baker's choco chips,2022-08-22,"$5,621",140
+Jehu Rudeforth,0,99% dark & pure,2022-02-25,"$10,486",198
+Jan Morforth,0,mint chip choco,2022-02-22,"$17,626",103
+Oby Sorrel,3,milk bars,2022-01-12,"$4,494",187
+Brien Boise,4,almond choco,2022-05-25,$105,125
+Curtice Advani,3,mint chip choco,2022-01-26,"$3,220",265
+Curtice Advani,5,mint chip choco,2022-08-24,"$4,802",296
+Madelene Upcott,3,fruit & nut bars,2022-01-18,"$5,677",21
+Karlen McCaffrey,2,85% dark bars,2022-03-30,$945,83
+Ches Bonnell,0,caramel stuffed bars,2022-01-17,"$8,757",162
+Kelci Walkden,5,fruit & nut bars,2022-02-17,"$4,816",145
+Kelci Walkden,1,peanut butter cubes,2022-04-08,"$7,532",44
+Husein Augar,2,fruit & nut bars,2022-04-04,"$4,340",226
+Jan Morforth,3,organic choco syrup,2022-03-02,"$1,799",207
+Gigi Bohling,3,raspberry choco,2022-08-09,"$1,127",176
+Dennison Crosswaite,0,milk bars,2022-06-09,"$10,038",286
+Ches Bonnell,4,caramel stuffed bars,2022-06-02,"$2,926",300
+Van Tuxwell,5,fruit & nut bars,2022-07-05,"$6,279",235
+Andria Kimpton,1,eclairs,2022-08-11,$308,125
+Madelene Upcott,2,choco coated almonds,2022-02-11,"$3,500",145
+Kelci Walkden,3,spicy special slims,2022-08-11,$658,65
+Roddy Speechley,0,drinking coco,2022-05-12,"$12,565",102
+Andria Kimpton,2,organic choco syrup,2022-01-18,"$3,955",134
+Madelene Upcott,4,fruit & nut bars,2022-01-05,"$8,512",189
+Curtice Advani,0,50% dark bites,2022-06-29,$504,232
+Gunar Cockshoot,2,mint chip choco,2022-08-08,"$4,256",67
+Dennison Crosswaite,2,mint chip choco,2022-03-23,"$13,573",138
+Barr Faughny,2,caramel stuffed bars,2022-01-04,"$6,566",99
+Brien Boise,2,milk bars,2022-02-22,"$13,503",251
+Beverie Moffet,4,spicy special slims,2022-02-17,"$8,680",252
+Barr Faughny,5,almond choco,2022-02-03,$385,78
+Wilone O'Kielt,0,baker's choco chips,2022-01-25,"$2,961",154
+Brien Boise,0,milk bars,2022-07-27,"$1,981",52
+Husein Augar,0,fruit & nut bars,2022-01-28,"$7,959",53
+Madelene Upcott,0,organic choco syrup,2022-07-05,"$10,794",50
+Van Tuxwell,2,white choc,2022-03-15,"$1,897",44
+Gunar Cockshoot,1,after nines,2022-08-04,"$2,744",200
+Barr Faughny,3,manuka honey choco,2022-02-24,"$5,474",239
+Karlen McCaffrey,3,85% dark bars,2022-06-28,"$6,069",55
+Oby Sorrel,0,85% dark bars,2022-06-30,"$6,944",27
+Kaine Padly,2,70% dark bites,2022-01-24,"$12,173",301
+Ches Bonnell,3,after nines,2022-06-23,"$5,705",350
+Husein Augar,2,spicy special slims,2022-08-22,"$2,492",33
+Gunar Cockshoot,1,50% dark bites,2022-01-04,"$3,024",23
+Curtice Advani,2,milk bars,2022-04-05,"$3,437",201
+Beverie Moffet,2,milk bars,2022-04-15,"$1,869",323
+Jan Morforth,3,orange choco,2022-02-11,"$1,225",84
+Andria Kimpton,1,smooth sliky salty,2022-07-08,"$1,155",79
+Gunar Cockshoot,4,raspberry choco,2022-08-11,"$6,811",344
+Husein Augar,3,after nines,2022-08-04,"$6,433",7
+Andria Kimpton,3,orange choco,2022-06-14,"$8,169",88
+Dennison Crosswaite,4,baker's choco chips,2022-01-17,"$2,275",275
+Jehu Rudeforth,1,orange choco,2022-06-23,"$3,857",512
+Jehu Rudeforth,4,smooth sliky salty,2022-08-24,"$1,463",113
+Andria Kimpton,4,caramel stuffed bars,2022-06-07,"$7,924",275
+Dotty Strutley,5,fruit & nut bars,2022-07-13,"$2,898",276
+Kelci Walkden,4,choco coated almonds,2022-05-24,"$9,506",212
+Gunar Cockshoot,3,after nines,2022-08-09,"$7,175",145
+Kaine Padly,1,85% dark bars,2022-04-06,"$1,729",31
+Jan Morforth,3,manuka honey choco,2022-07-28,"$1,589",271
+Curtice Advani,5,drinking coco,2022-02-07,"$5,187",142
+Brien Boise,0,spicy special slims,2022-05-09,"$6,223",256
+Wilone O'Kielt,5,choco coated almonds,2022-06-06,"$9,457",6
+Gunar Cockshoot,4,50% dark bites,2022-01-13,"$2,107",121
+Jehu Rudeforth,4,white choc,2022-06-29,"$1,862",284
+Jehu Rudeforth,3,85% dark bars,2022-03-11,"$6,972",89
+Dotty Strutley,5,85% dark bars,2022-04-25,"$10,220",508
+Rafaelita Blaksland,0,smooth sliky salty,2022-05-30,"$3,969",243
+Curtice Advani,2,manuka honey choco,2022-05-23,"$1,547",170
+Kelci Walkden,3,smooth sliky salty,2022-03-11,"$10,633",277
+Rafaelita Blaksland,5,smooth sliky salty,2022-07-27,"$15,057",212
+Roddy Speechley,1,smooth sliky salty,2022-03-07,"$9,338",11
+Ches Bonnell,5,choco coated almonds,2022-01-04,"$14,525",92
+Marney O'Breen,0,baker's choco chips,2022-01-13,"$5,810",101
+Camilla Castle,3,peanut butter cubes,2022-07-21,"$1,582",62
+Curtice Advani,1,organic choco syrup,2022-02-22,$791,22
+Jan Morforth,2,99% dark & pure,2022-05-23,"$9,100",187
+Rafaelita Blaksland,1,drinking coco,2022-07-12,"$9,884",200
+Jan Morforth,4,orange choco,2022-06-15,"$3,780",201
+Barr Faughny,3,50% dark bites,2022-06-23,"$4,557",308
+Curtice Advani,0,eclairs,2022-03-25,"$5,796",55
+Jan Morforth,2,caramel stuffed bars,2022-07-04,$84,153
+Camilla Castle,3,raspberry choco,2022-04-04,"$4,746",137
+Roddy Speechley,1,eclairs,2022-03-08,"$6,237",88
+Karlen McCaffrey,2,white choc,2022-01-17,"$7,483",232
+Wilone O'Kielt,2,mint chip choco,2022-08-22,"$1,309",51
+Marney O'Breen,4,50% dark bites,2022-06-14,"$2,989",124
+Ches Bonnell,2,choco coated almonds,2022-04-05,"$9,625",78
+Wilone O'Kielt,0,50% dark bites,2022-08-03,"$10,031",114
+Gigi Bohling,1,white choc,2022-07-11,"$6,587",4
+Wilone O'Kielt,3,eclairs,2022-03-11,"$3,311",22
+Brien Boise,4,peanut butter cubes,2022-01-10,"$15,330",30
+Roddy Speechley,4,baker's choco chips,2022-04-04,"$14,028",351
+Marney O'Breen,3,organic choco syrup,2022-07-08,"$8,624",50
+Jan Morforth,4,organic choco syrup,2022-04-12,"$1,197",356
+Rafaelita Blaksland,1,fruit & nut bars,2022-08-24,$483,185
+Husein Augar,5,99% dark & pure,2022-02-21,"$9,534",111
+Dennison Crosswaite,1,mint chip choco,2022-04-08,"$1,694",289
+Barr Faughny,0,caramel stuffed bars,2022-07-29,"$2,933",55
+Dennison Crosswaite,5,eclairs,2022-05-25,"$2,044",90
+Dennison Crosswaite,5,organic choco syrup,2022-07-18,"$12,656",126
+Beverie Moffet,1,orange choco,2022-05-10,"$8,722",109
+Mallorie Waber,0,choco coated almonds,2022-03-18,"$15,750",92
+Rafaelita Blaksland,3,eclairs,2022-02-07,"$19,481",51
+Kelci Walkden,1,smooth sliky salty,2022-03-17,"$8,099",118
+Jan Morforth,2,baker's choco chips,2022-08-01,"$13,727",79
+Jehu Rudeforth,0,milk bars,2022-03-18,"$8,659",29
+Beverie Moffet,4,eclairs,2022-04-22,"$8,463",155
+Marney O'Breen,3,eclairs,2022-01-18,"$4,914",31
+Husein Augar,0,99% dark & pure,2022-08-26,"$3,087",128
+Gunar Cockshoot,3,fruit & nut bars,2022-06-10,"$9,205",419
+Kelci Walkden,3,manuka honey choco,2022-04-08,"$1,358",106
+Barr Faughny,0,85% dark bars,2022-02-10,"$8,498",44
+Beverie Moffet,0,50% dark bites,2022-05-16,$700,457
+Van Tuxwell,0,50% dark bites,2022-07-13,$644,137
+Kelci Walkden,1,fruit & nut bars,2022-06-20,$826,149
+Camilla Castle,2,99% dark & pure,2022-08-02,$203,207
+Madelene Upcott,3,70% dark bites,2022-02-22,"$13,356",93
+Jan Morforth,1,70% dark bites,2022-02-14,"$5,894",305
+Oby Sorrel,3,spicy special slims,2022-06-03,"$1,617",13
+Beverie Moffet,3,peanut butter cubes,2022-02-23,"$10,822",30
+Dotty Strutley,3,99% dark & pure,2022-05-09,"$10,724",203
+Wilone O'Kielt,3,organic choco syrup,2022-01-31,"$2,016",277
+Ches Bonnell,3,caramel stuffed bars,2022-06-30,"$7,588",42
+Brien Boise,5,manuka honey choco,2022-08-22,"$1,904",8
+Roddy Speechley,3,85% dark bars,2022-04-14,"$4,844",275
+Oby Sorrel,4,raspberry choco,2022-04-08,"$4,599",323
+Andria Kimpton,0,manuka honey choco,2022-03-30,"$9,744",377
+Mallorie Waber,2,raspberry choco,2022-03-02,"$1,400",2
+Jehu Rudeforth,5,orange choco,2022-07-28,$364,170
+Kaine Padly,3,70% dark bites,2022-03-24,"$7,231",38
+Husein Augar,4,almond choco,2022-05-17,"$8,309",166
+Kaine Padly,1,choco coated almonds,2022-05-18,"$3,164",164
+Ches Bonnell,3,eclairs,2022-04-04,$490,49
+Brien Boise,2,85% dark bars,2022-08-09,"$18,032",205
+Husein Augar,1,70% dark bites,2022-01-31,"$5,131",285
+Barr Faughny,1,organic choco syrup,2022-03-10,"$1,141",205
+Oby Sorrel,4,organic choco syrup,2022-06-30,"$7,980",157
+Van Tuxwell,3,eclairs,2022-03-01,"$5,229",182
+Mallorie Waber,4,drinking coco,2022-05-27,"$3,423",100
+Karlen McCaffrey,3,mint chip choco,2022-03-02,"$4,326",61
+Kelci Walkden,4,85% dark bars,2022-06-23,"$3,997",228
+Kelci Walkden,5,almond choco,2022-01-27,"$5,180",233
+Dennison Crosswaite,2,fruit & nut bars,2022-07-29,$952,24
+Barr Faughny,1,baker's choco chips,2022-02-03,"$10,969",170
+Brien Boise,2,smooth sliky salty,2022-05-27,"$5,964",26
+Brien Boise,2,spicy special slims,2022-01-28,"$1,302",33
+Wilone O'Kielt,2,caramel stuffed bars,2022-01-13,"$4,179",276
+Jehu Rudeforth,4,after nines,2022-06-27,"$1,946",164
+Barr Faughny,1,white choc,2022-03-29,"$4,291",1
+Gunar Cockshoot,2,organic choco syrup,2022-06-03,"$7,196",160
+Mallorie Waber,2,eclairs,2022-04-12,"$10,437",46
+Karlen McCaffrey,4,50% dark bites,2022-04-06,"$3,647",310
+Kaine Padly,0,50% dark bites,2022-08-02,"$8,995",78
+Gigi Bohling,0,eclairs,2022-04-12,"$7,252",136
+Oby Sorrel,2,drinking coco,2022-07-21,"$16,380",130
+Husein Augar,2,peanut butter cubes,2022-05-09,"$4,522",5
+Andria Kimpton,0,baker's choco chips,2022-08-09,$329,109
+Madelene Upcott,1,choco coated almonds,2022-07-20,"$3,458",294
+Brien Boise,2,70% dark bites,2022-04-14,"$4,641",413
+Jehu Rudeforth,1,white choc,2022-01-25,"$4,627",136
+Karlen McCaffrey,5,eclairs,2022-08-15,$868,125
+Karlen McCaffrey,1,fruit & nut bars,2022-06-02,$210,16
+Gunar Cockshoot,5,85% dark bars,2022-06-30,"$7,007",135
+Dotty Strutley,3,raspberry choco,2022-02-10,"$5,845",91
+Dennison Crosswaite,2,organic choco syrup,2022-01-27,"$8,428",216
+Camilla Castle,4,mint chip choco,2022-05-26,"$4,977",317
+Mallorie Waber,0,eclairs,2022-08-22,"$9,527",222
+Marney O'Breen,2,99% dark & pure,2022-07-22,"$10,766",157
+Kelci Walkden,0,almond choco,2022-05-30,"$4,879",350
+Ches Bonnell,5,milk bars,2022-07-21,"$2,408",157
+Oby Sorrel,2,85% dark bars,2022-07-05,"$8,981",130
+Jan Morforth,4,50% dark bites,2022-01-12,"$5,250",293
+Gunar Cockshoot,1,white choc,2022-08-11,"$7,560",15
+Husein Augar,4,baker's choco chips,2022-04-29,"$3,038",135
+Rafaelita Blaksland,3,after nines,2022-07-07,"$1,099",92
+Madelene Upcott,3,mint chip choco,2022-03-11,"$7,413",4
+Madelene Upcott,4,70% dark bites,2022-02-16,"$5,397",239
+Beverie Moffet,2,eclairs,2022-06-09,"$10,325",147
+Andria Kimpton,2,eclairs,2022-05-16,"$2,149",84
+Gigi Bohling,4,85% dark bars,2022-06-23,"$12,362",94
+Roddy Speechley,4,raspberry choco,2022-01-28,"$12,635",194
+Oby Sorrel,4,orange choco,2022-04-15,"$7,315",237
+Gigi Bohling,2,white choc,2022-04-13,"$1,393",172
+Kaine Padly,4,choco coated almonds,2022-08-03,"$8,022",123
+Dennison Crosswaite,3,organic choco syrup,2022-01-04,$371,229
+Kelci Walkden,1,after nines,2022-01-13,"$16,702",198
+Van Tuxwell,0,baker's choco chips,2022-05-11,"$13,258",32
+Kaine Padly,4,caramel stuffed bars,2022-05-20,"$10,192",67
+Jehu Rudeforth,4,drinking coco,2022-02-03,"$7,140",438
+Beverie Moffet,2,manuka honey choco,2022-05-06,"$9,835",167
+Gunar Cockshoot,4,smooth sliky salty,2022-03-22,$749,148
+Camilla Castle,1,orange choco,2022-02-17,"$7,770",54
+Kelci Walkden,4,99% dark & pure,2022-08-12,"$3,507",114
+Gigi Bohling,3,after nines,2022-01-21,"$5,600",181
+Oby Sorrel,0,50% dark bites,2022-05-06,$721,151
+Oby Sorrel,1,50% dark bites,2022-06-24,"$6,615",137
+Barr Faughny,5,white choc,2022-05-05,"$7,420",163
+Curtice Advani,0,caramel stuffed bars,2022-02-14,"$9,114",140
+Curtice Advani,3,85% dark bars,2022-05-12,"$5,404",187
+Ches Bonnell,4,85% dark bars,2022-06-28,"$14,924",12
+Dennison Crosswaite,0,drinking coco,2022-07-13,"$7,091",194
+Jan Morforth,2,after nines,2022-03-14,"$6,496",168
+Gunar Cockshoot,5,after nines,2022-08-15,"$3,738",261
+Ches Bonnell,2,orange choco,2022-02-16,"$1,190",256
+Barr Faughny,0,raspberry choco,2022-05-27,"$9,268",100
+Wilone O'Kielt,5,drinking coco,2022-06-14,"$1,029",98
+Wilone O'Kielt,2,after nines,2022-08-04,"$12,026",262
+Gunar Cockshoot,1,spicy special slims,2022-04-05,"$13,405",12
+Madelene Upcott,1,peanut butter cubes,2022-07-05,"$14,763",113
+Kaine Padly,3,eclairs,2022-01-20,"$12,894",48
+Ches Bonnell,3,drinking coco,2022-02-16,"$8,302",131
+Kelci Walkden,2,raspberry choco,2022-06-16,"$8,183",254
+Dotty Strutley,0,choco coated almonds,2022-04-13,"$1,645",284
+Kaine Padly,4,50% dark bites,2022-02-21,"$3,143",67
+Roddy Speechley,1,choco coated almonds,2022-05-11,"$5,873",249
+Oby Sorrel,1,peanut butter cubes,2022-06-07,"$12,425",167
+Oby Sorrel,4,white choc,2022-06-27,"$1,715",286
+Barr Faughny,2,after nines,2022-07-29,"$8,190",109
+Wilone O'Kielt,1,smooth sliky salty,2022-06-02,"$4,991",166
+Rafaelita Blaksland,1,99% dark & pure,2022-03-02,"$5,096",142
+Van Tuxwell,0,70% dark bites,2022-01-10,"$7,063",104
+Roddy Speechley,0,85% dark bars,2022-07-08,"$4,200",80
+Oby Sorrel,2,spicy special slims,2022-06-08,"$11,137",88
+Wilone O'Kielt,4,milk bars,2022-08-26,$301,65
+Dennison Crosswaite,5,baker's choco chips,2022-08-11,"$17,465",271
+Madelene Upcott,5,almond choco,2022-05-31,"$10,143",24
+Van Tuxwell,3,50% dark bites,2022-07-11,"$3,626",10
+Karlen McCaffrey,1,caramel stuffed bars,2022-03-02,"$3,346",304
+Madelene Upcott,0,raspberry choco,2022-07-13,"$6,321",88
+Rafaelita Blaksland,4,spicy special slims,2022-08-03,"$9,345",133
+Curtice Advani,4,peanut butter cubes,2022-03-01,"$15,008",165
+Kelci Walkden,3,white choc,2022-04-13,"$7,609",150
+Beverie Moffet,1,fruit & nut bars,2022-02-14,"$10,332",180
+Mallorie Waber,2,white choc,2022-07-26,$819,213
+Brien Boise,4,drinking coco,2022-01-27,"$5,754",133
+Jehu Rudeforth,2,peanut butter cubes,2022-04-14,$28,446
+Husein Augar,2,eclairs,2022-02-09,"$4,956",58
+Brien Boise,4,spicy special slims,2022-05-25,"$2,352",58
+Oby Sorrel,0,manuka honey choco,2022-01-26,"$3,906",76
+Beverie Moffet,2,white choc,2022-07-04,"$1,813",296
+Ches Bonnell,2,almond choco,2022-04-13,"$11,788",73
+Gigi Bohling,0,smooth sliky salty,2022-01-25,"$5,768",119
+Camilla Castle,5,85% dark bars,2022-04-25,"$2,401",78
+Jehu Rudeforth,2,almond choco,2022-08-30,"$10,122",100
+Camilla Castle,3,99% dark & pure,2022-08-26,"$2,268",42
+Gigi Bohling,0,orange choco,2022-03-09,$574,156
+Kelci Walkden,4,drinking coco,2022-04-20,"$1,792",23
+Dotty Strutley,2,peanut butter cubes,2022-02-16,"$9,107",73
+Dennison Crosswaite,4,99% dark & pure,2022-05-30,"$12,187",27
+Gigi Bohling,3,50% dark bites,2022-06-29,"$5,670",64
+Brien Boise,4,caramel stuffed bars,2022-03-04,"$2,681",149
+Curtice Advani,3,peanut butter cubes,2022-03-15,"$1,533",434
+Curtice Advani,3,50% dark bites,2022-01-27,"$9,765",85
+Barr Faughny,5,caramel stuffed bars,2022-03-29,"$3,318",299
+Mallorie Waber,1,almond choco,2022-05-12,"$4,214",35
+Brien Boise,3,eclairs,2022-07-11,"$4,690",299
+Gunar Cockshoot,3,choco coated almonds,2022-08-01,"$13,062",62
+Gunar Cockshoot,4,spicy special slims,2022-02-16,"$12,488",200
+Curtice Advani,5,after nines,2022-04-13,"$14,147",235
+Ches Bonnell,0,peanut butter cubes,2022-03-14,"$10,199",68
+Oby Sorrel,0,spicy special slims,2022-04-26,"$11,389",26
+Jehu Rudeforth,1,manuka honey choco,2022-04-05,"$3,584",200
+Camilla Castle,1,drinking coco,2022-03-03,"$12,481",264
+Marney O'Breen,3,70% dark bites,2022-02-14,"$8,603",352
+Andria Kimpton,3,almond choco,2022-04-05,"$6,559",158
+Kaine Padly,4,after nines,2022-01-21,"$18,697",176
+Rafaelita Blaksland,4,50% dark bites,2022-02-16,"$10,150",68
+Karlen McCaffrey,5,white choc,2022-08-24,"$4,592",2
+Mallorie Waber,0,smooth sliky salty,2022-02-11,"$4,158",109
+Kaine Padly,1,organic choco syrup,2022-03-29,"$5,684",81
+Marney O'Breen,5,peanut butter cubes,2022-06-15,$693,350
+Dennison Crosswaite,4,smooth sliky salty,2022-04-26,$546,142
+Beverie Moffet,2,organic choco syrup,2022-06-23,"$1,036",20
+Dennison Crosswaite,0,baker's choco chips,2022-01-11,"$13,846",421
+Beverie Moffet,4,50% dark bites,2022-02-09,"$2,499",271
+Van Tuxwell,4,almond choco,2022-06-06,"$10,689",204
+Wilone O'Kielt,0,smooth sliky salty,2022-01-04,"$2,226",46
+Andria Kimpton,1,70% dark bites,2022-04-08,"$10,262",15
+Barr Faughny,4,milk bars,2022-03-02,"$3,864",430
+Van Tuxwell,1,drinking coco,2022-06-15,"$4,900",709
+Curtice Advani,2,mint chip choco,2022-03-03,"$8,155",96
+Jehu Rudeforth,3,milk bars,2022-05-18,"$2,478",188
+Gunar Cockshoot,2,caramel stuffed bars,2022-07-28,"$2,471",202
+Curtice Advani,4,manuka honey choco,2022-02-07,"$1,666",106
+Mallorie Waber,0,raspberry choco,2022-04-25,"$8,400",27
+Beverie Moffet,1,85% dark bars,2022-02-16,"$6,139",45
+Van Tuxwell,1,70% dark bites,2022-06-02,"$7,077",77
+Husein Augar,2,raspberry choco,2022-06-15,"$9,954",154
+Dotty Strutley,2,mint chip choco,2022-04-14,"$1,260",239
+Camilla Castle,2,drinking coco,2022-08-08,$469,163
+Marney O'Breen,4,drinking coco,2022-03-29,$973,28
+Rafaelita Blaksland,1,spicy special slims,2022-05-02,"$2,520",156
+Van Tuxwell,2,eclairs,2022-07-21,"$10,500",106
+Gunar Cockshoot,0,99% dark & pure,2022-08-18,"$7,952",235
+Camilla Castle,4,peanut butter cubes,2022-07-19,"$4,872",126
+Marney O'Breen,1,peanut butter cubes,2022-03-08,"$6,594",91
+Ches Bonnell,0,choco coated almonds,2022-04-08,"$1,470",167
+Van Tuxwell,0,mint chip choco,2022-01-13,"$2,674",295
+Gigi Bohling,5,70% dark bites,2022-01-14,"$7,364",196
+Rafaelita Blaksland,0,white choc,2022-03-21,"$6,818",102
+Roddy Speechley,1,drinking coco,2022-05-17,"$6,776",312
+Camilla Castle,3,85% dark bars,2022-08-08,"$15,099",55
+Madelene Upcott,1,milk bars,2022-04-26,"$3,612",82
+Madelene Upcott,0,70% dark bites,2022-04-15,"$3,710",260
+Oby Sorrel,1,eclairs,2022-05-19,"$6,111",591
+Dennison Crosswaite,1,drinking coco,2022-01-10,"$2,702",24
+Roddy Speechley,1,white choc,2022-04-05,"$5,887",268
+Roddy Speechley,2,spicy special slims,2022-03-22,"$10,647",173
+Jehu Rudeforth,4,fruit & nut bars,2022-05-13,"$8,589",229
+Dennison Crosswaite,5,smooth sliky salty,2022-05-12,"$11,781",91
+Brien Boise,5,raspberry choco,2022-01-12,$672,194
+Madelene Upcott,3,milk bars,2022-03-29,"$12,558",403
+Roddy Speechley,2,50% dark bites,2022-03-14,"$8,337",12
+Barr Faughny,3,99% dark & pure,2022-05-24,"$8,134",195
+Dennison Crosswaite,1,organic choco syrup,2022-01-28,"$8,491",75
+Beverie Moffet,2,almond choco,2022-05-24,"$3,066",96
+Karlen McCaffrey,0,spicy special slims,2022-05-17,"$4,410",323

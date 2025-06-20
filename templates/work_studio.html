@@ -1,0 +1,365 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Studio</title>
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <link rel="stylesheet" href="{% static 'work_studio_css.css' %}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Jost:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable@latest/dist/handsontable.full.min.css" />
+</head>
+<body>
+    <audio id="backgroundMusic" loop>
+        <source src="{% static 'gorila-315977.mp3' %}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <main id="landing-page">
+        <button id="muteButton" class="mute-button">
+            <span id="muteIcon" class="mute-icon mute"></span>
+        </button>
+
+        <div class="progress-bar" id="progressBar"></div>
+
+        <div id="particles-js"></div>
+
+        
+        <div class="header-container">
+            <img src="{% static 'ml-studio-logo.png' %}" alt="Logo">
+        </div><hr>
+        <h2 class="workflow-heading" data-aos="fade-up" data-aos-delay="200">Your ML Arena is here..!!</h2>
+        <div class="workbox" data-aos="fade-up" data-aos-delay="200">
+            <div class="file-upload-container">
+                <form method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <input type="file" id="fileInput" name="file" accept=".csv, .xlsx, .xls" style="display: none;">
+                    <button type="button" id="uploadButton">Upload File</button>
+                    <div id="fileInfo" style="display: none;">
+                        <span id="fileName"></span>
+                        <span id="other_buttons">
+                            <button type="button" id="changeFileButton">Choose Different File</button>
+                            <button type="button" id="submitButton">Submit</button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+            <div id="workArena" style="margin-top: 50px; display: none;">
+                <h2 class="your-workspace">Your Data Workspace</h2>
+
+                <div id="dataTable"></div>
+
+                <div class="pulsating-connector-container">
+                    <div class="pulsating-line">
+                        <div class="shining-ball"></div>
+                    </div>
+                </div>
+
+                <div id="dataStatistics" class="data-statistics-container">
+                    <h3 class="data-stats">Data Statistics</h3>
+                    <div class="dataset-overview">
+                        <h4>Dataset Overview</h4>
+                        <div class="overview-metrics">
+                            <div class="metric">
+                                <span class="metric-label">Total Rows:</span>
+                                <span class="metric-value" id="totalRows"></span>
+                            </div>
+                            <div class="metric">
+                                <span class="metric-label">Total Columns:</span>
+                                <span class="metric-value" id="totalColumns"></span>
+                            </div>
+                        </div>
+                        <div class="column-types-overview">
+                            <h4>Column Data Types</h4>
+                            <div id="columnTypesList">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column-statistics">
+                        <h4>Column Statistics</h4>
+                        <div class="column-selector">
+                            <label for="columnSelect">Select Column for Stats:</label>
+                            <select id="columnSelect">
+                                <option value="">-- Select a Column --</option>
+                            </select>
+                        </div>
+
+                        <div id="columnStatsLayout" style="display: flex; gap: 10px; margin-top: 15px;">
+                            <div id="selectedColumnInfo">
+                                <h5 id="selectedColumnName"></h5>
+                                <p><span class="stat-label">Data Type:</span> <span id="selectedColumnType"></span></p>
+                                <p><span class="stat-label">Missing Values:</span> <span id="selectedColumnMissing"></span> (<span id="selectedColumnMissingPct"></span>%)</p>
+                                <p><span class="stat-label">Unique Values:</span> <span id="selectedColumnUnique"></span> (<span id="selectedColumnUniquePct"></span>%)</p>
+                            </div>
+
+                            <div id="statsDetailsContainer">
+                                <div id="selectedColumnStats" class="stats-details" style="display: none;">
+                                    <div id="numericalStats" style="display: none;" class="asd">
+                                        <h6>Numerical Statistics</h6>
+                                        <p><span class="stat-label">Mean:</span> <span id="numericalMean"></span></p>
+                                        <p><span class="stat-label">Median:</span> <span id="numericalMedian"></span></p>
+                                        <p><span class="stat-label">Standard Deviation:</span> <span id="numericalStdDev"></span></p>
+                                        <p><span class="stat-label">Variance:</span> <span id="numericalVariance"></span></p>
+                                        <p><span class="stat-label">Minimum:</span> <span id="numericalMin"></span></p>
+                                        <p><span class="stat-label">Maximum:</span> <span id="numericalMax"></span></p>
+                                        <p><span class="stat-label">Range:</span> <span id="numericalRange"></span></p>
+                                        <p><span class="stat-label">IQR:</span> <span id="numericalIQR"></span></p>
+                                        <p><span class="stat-label">Skewness:</span> <span id="numericalSkewness"></span></p>
+                                        <p><span class="stat-label">Kurtosis:</span> <span id="numericalKurtosis"></span></p>
+                                        <p><span class="stat-label">Quartiles (Q1, Q2, Q3):</span> <span id="numericalQ1"></span>, <span id="numericalQ2"></span>, <span id="numericalQ3"></span></p>
+                                    </div>
+
+                                    <div id="categoricalStats" style="display: none;" class="asd">
+                                        <h6>Categorical Statistics</h6>
+                                        <p><span class="stat-label">Number of Categories:</span> <span id="categoricalNumCategories"></span></p>
+                                        <div id="topCategories">
+                                        </div>
+                                    </div>
+
+                                    <div id="booleanStats" style="display: none;" class="asd">
+                                        <h6>Boolean Statistics</h6>
+                                        <p><span class="stat-label">True:</span> <span id="booleanTrueCount"></span> (<span id="booleanTruePct"></span>%)</p>
+                                        <p><span class="stat-label">False:</span> <span id="booleanFalseCount"></span> (<span id="booleanFalsePct"></span>%)</p>
+                                    </div>
+
+                                    <div id="datetimeStats" style="display: none;" class="asd">
+                                        <h6>Date/Time Statistics</h6>
+                                        <p><span class="stat-label">Earliest Date/Time:</span> <span id="datetimeEarliest"></span></p>
+                                        <p><span class="stat-label">Latest Date/Time:</span> <span id="datetimeLatest"></span></p>
+                                        <p><span class="stat-label">Time Range:</span> <span id="datetimeRange"></span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="preprocess-container">
+                        <div class="preprocess-header">
+                            <h2>Pre-Process Your Data</h2>
+                        </div>
+                        <div class="preprocess-options">
+                            <button class="outer-options" data-target="hmv">Handle Missing Values</button>
+                            <button class="outer-options" data-target="rd">Remove Duplicates</button>
+                            <button class="outer-options" data-target="fdc">Fix Data Consistency</button>
+                            <button class="outer-options" data-target="n">Normalization</button>
+                            <button class="outer-options" data-target="ca">Correlation Analysis</button>
+                            <button class="outer-options" data-target="ecd">Encode Categorical Data</button>
+                        </div>
+                        <div class="sub-options-display-area">
+                            <!-- Sub-options will be dynamically inserted here -->
+                        </div>
+                        <div id="correlationOutput" class="output-area">
+                        </div>
+                        <div class="sub-options-container" style="display: none;">
+                            <div class="hmv sub-options">
+                                <button class="inner-options">Drop Rows</button>
+                                <button class="inner-options">Fill with Mean</button>
+                                <button class="inner-options">Fill with Median</button>
+                                <button class="inner-options">Fill with Mode</button>
+                            </div>
+                            <div class="rd sub-options">
+                                <button class="inner-options">Remove All Duplicates</button>
+                                <button class="inner-options">Remove Duplicates (Specific Columns)</button>
+                            </div>
+                            <div class="fdc sub-options">
+                                <button class="inner-options">Standardize Case</button>
+                            </div>
+                            <div class="n sub-options">
+                                <button class="inner-options" data-value="minmax">Min-Max Normalization</button>
+                                <button class="inner-options" data-value="zscore">Z-score Standardization</button>
+                            </div>
+                            <div class="ca sub-options">
+                                <button class="inner-options">Compute Correlation</button>
+                            </div>
+                            <div class="ecd sub-options">
+                                <button class="inner-options">Label Encoding</button>
+                                <button class="inner-options">One-Hot Encoding</button>
+                            </div>
+                        </div>
+                        <div class="sub-stats-container" style="display: none;">
+                            <h3 class="sub-stats-title">Sub-Statistics</h3>
+                            <div class="sub-stats-content">
+                                <!-- Sub-statistics will be dynamically inserted here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="action-buttons-container" id="postProcessingActions" style="display: none; justify-content: center; gap: 20px; margin: 20px 0;">
+                <a href="#" id="downloadButton" class="action-button neon-green-button" download>Download Processed File</a>
+                <button id="proceedButton" class="action-button">Proceed to Model Training</button>
+           </div>
+        </div>
+
+        <footer class="foot" data-aos="zoom-out-up" data-aos-delay="200">
+            <div class="top-div">
+                <div class="left-div">
+                    <h2 class="a123">Our contributors</h2>
+                    <div class="slider">
+                        <div class="slide">
+                            <a href="https://www.linkedin.com/in/sai-ganesh-malla-09a38a279/" class="linkedin">
+                                <img src="{% static 'c1.jpg' %}" alt="Image 1">
+                            </a>
+                            <h4>Sai Ganesh</h4>
+                        </div>
+                        <div class="slide">
+                            <a href="https://www.linkedin.com/in/sneha-lagudu-2aa90625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="linkedin">
+                                <img src="{% static 'c2.jpg' %}" alt="Image 2">
+                            </a>
+                            <h4>Sneha</h4>
+                        </div>
+                        <div class="slide">
+                            <a href="https://www.linkedin.com/in/n-phalgun-praveen-b963a5260/" class="linkedin">
+                                <img src="{% static 'c3.jpg' %}" alt="Image 3">
+                            </a>
+                            <h4>Praveen</h4>
+                        </div>
+                        <div class="slide">
+                            <a href="https://www.linkedin.com/in/sai-ganesh-malla-09a38a279/" class="linkedin">
+                                <img src="{% static 'c1.jpg' %}" alt="Image 1">
+                            </a>
+                            <h4>Sai Ganesh</h4>
+                        </div>
+                        <div class="slide">
+                            <a href="https://www.linkedin.com/in/sneha-lagudu-2aa90625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="linkedin">
+                                <img src="{% static 'c2.jpg' %}" alt="Image 2">
+                            </a>
+                            <h4>Sneha</h4>
+                        </div>
+                        <div class="slide">
+                            <a href="https://www.linkedin.com/in/n-phalgun-praveen-b963a5260/" class="linkedin">
+                                <img src="{% static 'c3.jpg' %}" alt="Image 3">
+                            </a>
+                            <h4>Praveen</h4>
+                        </div>
+                    </div>
+                    <div class="logos">
+                        <img src="{% static 'instagram.png' %}" alt="insta"><img src="{% static 'linkedin.png' %}" alt="linkedin"><img src="{% static 'mail.png' %}" alt="mail">
+                    </div>
+                    <div class="contact">
+                        <a href="#" class="contact-a">Contact Us</a>
+                        <p>Ph : +91 xxxxx xxxxx</p>
+                    </div>
+                </div>
+                <div class="right-div">
+                    <h2 class="right">About Us</h2>
+                    <p class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi temporibus animi beatae deleniti fugit, officiis sequi distinctio at reprehenderit! Natus consequatur consectetur impedit perspiciatis distinctio asperiores nobis, ratione accusantium ut quae sit, cum mollitia dicta amet? Porro ipsa, adipisci, laboriosam voluptatem obcaecati, doloremque provident laborum ducimus facilis tempore ut dolores. Vero ea sunt eaque ullam asperiores et saepe, reprehenderit suscipit fuga distinctio dolor dicta veritatis ab, id delectus recusandae temporibus.</p>
+                </div>
+            </div>
+            <div class="bottom">
+                <p>&copy; 2025 ML Studio</p>
+                <p>All rights reserved</p>
+            </div>
+        </footer>
+        <audio id="successSound" preload="auto">
+            <source src="{% static 'sounds/success_effect.mp3' %}" type="audio/mpeg">
+        </audio>
+    </main>
+    <script>
+        window.addEventListener('scroll', () => {
+            const winScroll = document.documentElement.scrollTop;
+            const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const scrolled = (winScroll / height) * 100;
+            document.getElementById('progressBar').style.width = scrolled + '%';
+        });
+
+        const backgroundMusic = document.getElementById('backgroundMusic');
+        const muteButton = document.getElementById('muteButton');
+        const muteIcon = document.getElementById('muteIcon');
+        let isMuted = false;
+        window.addEventListener('load', () => {
+            backgroundMusic.volume = 0.1;
+            backgroundMusic.play().catch(error => {
+                console.log("Autoplay prevented:", error);
+                document.addEventListener('click', () => {
+                    backgroundMusic.play();
+                }, { once: true });
+            });
+        });
+        muteButton.addEventListener('click', () => {
+            isMuted = !isMuted;
+            if (isMuted) {
+                backgroundMusic.pause();
+                muteIcon.classList.remove('mute');
+                muteIcon.classList.add('unmute');
+            } else {
+                backgroundMusic.play();
+                muteIcon.classList.remove('unmute');
+                muteIcon.classList.add('mute');
+            }
+        });
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script>
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+        let currentIndex = 0;
+
+        function positionSlides() {
+            slides.forEach((slide, index) => {
+                const offset = (index - currentIndex + totalSlides) % totalSlides;
+                let adjustedOffset = offset > Math.floor(totalSlides / 2) ? offset - totalSlides : offset;
+                let zIndex = adjustedOffset === 0 ? 3 : (adjustedOffset === -1 || adjustedOffset === 1 ? 2 : 1);
+                let opacityValue = adjustedOffset === 0 ? 1 : (Math.abs(adjustedOffset) <= 1 ? 0.5 : 0);
+                let visibilityValue = Math.abs(adjustedOffset) <= 1 ? "visible" : "hidden";
+
+                gsap.to(slide, {
+                    x: adjustedOffset * 100,
+                    z: -Math.abs(adjustedOffset) * 200,
+                    scale: 1 - Math.abs(adjustedOffset) * 0.2,
+                    opacity: opacityValue,
+                    rotationY: adjustedOffset * 30,
+                    duration: 1,
+                    ease: "power2.out",
+                    onStart: () => slide.style.visibility = visibilityValue,
+                    onComplete: () => slide.style.zIndex = zIndex,
+                });
+            });
+        }
+
+        function animateSlider() {
+            gsap.to({}, {
+                duration: 2,
+                onComplete: () => {
+                    currentIndex = (currentIndex + 1) % totalSlides;
+                    positionSlides();
+                    animateSlider();
+                }
+            });
+        }
+
+        positionSlides();
+        animateSlider();
+    </script>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script>
+        particlesJS("particles-js", {
+            "particles": {
+                "number": { "value": 50, "density": { "enable": true, "value_area":800 } },
+                "color": { "value": "#ffffff" },
+                "shape": { "type": "circle" },
+                "opacity": { "value": 0.5, "random": true },
+                "size": { "value": 3, "random": true },
+                "line_linked": { "enable": true, "distance": 150, "color": "#ffffff", "opacity": 0.4, "width": 1 },
+                "move": { "enable": true, "speed": 2, "direction": "none", "random": false, "straight": false }
+            },
+            "interactivity": {
+                "detect_on": "canvas",
+                "events": { "onhover": { "enable": true, "mode": "repulse" }, "onclick": { "enable": true, "mode": "push" } },
+                "modes": { "repulse": { "distance": 10, "duration": 5 } }
+            }
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/handsontable@latest/dist/handsontable.full.min.js"></script>
+    <script src="{% static 'work_studio_js.js' %}"></script>
+</body>
+</html>
